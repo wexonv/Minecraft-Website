@@ -3,6 +3,7 @@
 A modern, responsive website for displaying your Minecraft server status with real-time player count and quick access links.
 
 ![Website Preview](http://wexon.top/repo/minecraft-website-view.png)
+https://minecraft-website-one.vercel.app/
 
 ## Features
 
