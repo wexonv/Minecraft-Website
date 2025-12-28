@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/wexonv/Minecraft-Website">
-    <img src="http://wexon.top/repo/minecraft-website-view.png" alt="Logo" width="80" height="80">
+    <img src="http://wexon.top/repo/minecraft-website-view.png" alt="Logo" width="260" height="260">
   </a>
 
   <h3 align="center">Minecraft Server Status Website</h3>
