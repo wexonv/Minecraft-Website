@@ -70,7 +70,7 @@
    git clone https://github.com/wexonv/Minecraft-Website.git
    ```
 
-   2. Navigate to the project folder:
+2. Navigate to the project folder:
     cd Minecraft-Website
 
 3. Install dependencies:
