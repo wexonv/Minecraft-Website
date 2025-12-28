@@ -72,8 +72,7 @@ primaryColor: "green", // Options: green, blue, red, purple, orange, indigo
 
 ### Build for Production:
 
-npm run build
-npm start
+npm run build<br>npm start
 
 ## Support
 
