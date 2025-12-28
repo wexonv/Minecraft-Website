@@ -60,14 +60,6 @@ theme: {
 primaryColor: "green", // Options: green, blue, red, purple, orange, indigo
 }
 
-### Update Links:
-
-links: {
-map: "https://your-server.com/map",
-discord: "https://discord.gg/your-invite",
-website: "https://your-server.com",
-}
-
 ## Deployment
 
 ### Deploy to Vercel (Free & Recommended):
