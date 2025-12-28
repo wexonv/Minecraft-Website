@@ -71,22 +71,36 @@
    ```
 
 2. Navigate to the project folder:
-    cd Minecraft-Website
+   ```sh
+   cd Minecraft-Website
+   ```
 
 3. Install dependencies:
+   ```sh
     npm install
+   ```
 
-4. Configure your server by editing /src/config.ts
+4. Configure your server by editing:
+```sh
+/src/config.ts
+```
 
-5. Run development server:
+6. Run development server:
+```sh
     npm run dev
+```
 
-6. Open your browser and visit:
+```sh
+8. Open your browser and visit:
     http://localhost:3000
+```
 
 ### Configuration
 
-All configuration is done in one file: /src/config.ts
+All configuration is done in one file:
+```sh
+/src/config.ts
+```
 
 #### Basic Server Setup
 
