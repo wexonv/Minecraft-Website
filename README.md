@@ -1,8 +1,8 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-[![License][license-shield]][license-url]
-[![Website][website-shield]][website-url]
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-Online-green?style=for-the-badge)](https://minecraft-website-one.vercel.app/)
 
 <br />
 <div align="center">
