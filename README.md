@@ -47,12 +47,7 @@ All configuration is done in one file: /src/config.ts
 
 ### Basic Server Setup:
 
-Edit the following in config.ts:
-server: {
-name: "YourServerName",
-ip: "yourserver.com",
-version: "1.21.4",
-}
+Edit the following in config.ts:<br>server: {<br>name: "YourServerName",<br>ip: "yourserver.com",<br>version: "1.21.4",<br>}
 
 ### Change Theme Color:
 
