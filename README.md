@@ -81,26 +81,27 @@
    ```
 
 4. Configure your server by editing:
-```sh
-/src/config.ts
-```
+   ```sh
+    /src/config.ts
+   ```
 
-6. Run development server:
-```sh
+5. Run development server:
+   ```sh
     npm run dev
-```
+   ```
 
-```sh
-8. Open your browser and visit:
+
+6. Open your browser and visit:
+   ```sh
     http://localhost:3000
-```
+   ```
 
 ### Configuration
 
 All configuration is done in one file:
-```sh
-/src/config.ts
-```
+   ```sh
+   /src/config.ts
+   ```
 
 #### Basic Server Setup
 
