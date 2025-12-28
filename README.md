@@ -132,3 +132,10 @@ All configuration is done in one file:
     npm run build
     npm start
 
+
+---
+
+<div align="center">
+  <p>🚀 Built with ❤️ by <a href="https://wexon.top">wexon.top</a></p>
+  <p>Check out more projects at <a href="https://wexon.top">https://wexon.top</a></p>
+</div>
